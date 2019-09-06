@@ -67,8 +67,8 @@
         "name": "Vertical Rolling",
         "input": "{charge} :d: :u:+[K]",
         "canBeUpgraded": true,
-		"costOfUpgrade": 1,
-		"extraInfo": "{vRollEXMove}"
+        "costOfUpgrade": 1,
+        "extraInfo": "{vRollEXMove}"
       }
     ],
     "{superCombo}": [
