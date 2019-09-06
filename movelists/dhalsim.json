@@ -24,6 +24,10 @@
     ],
     "{uniqueAttacks}": [
       {
+        "name": "Short Limb",
+        "input": ":b: {or} :db:+[P] {or} [K]"
+      },
+      {
         "name": "Yoga Tower",
         "input": ":d:+[LP]+[MP]+[HP]"
       },
