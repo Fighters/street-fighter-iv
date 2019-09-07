@@ -61,7 +61,7 @@
       },
       {
         "name": "Yoga Teleport",
-        "input": ":dp: {or} :rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK] ({airOK)}"
+        "input": ":dp: {or} :rdp:+[LP]+[MP]+[HP] {or} [LK]+[MK]+[HK] ({airOK})"
       }
     ],
     "{superCombo}": [
