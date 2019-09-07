@@ -61,7 +61,7 @@
       },
       {
         "name": "Wall Jump",
-        "input": "{duringJumpNearWall}, :uf:"
+        "input": "{duringJumpNearWall}, :f:"
       }
     ],
     "{specialMoves}": [
